@@ -103,5 +103,5 @@ Hyas comes with [commands](https://gethyas.com/docs/prologue/commands/) for comm
 
 ## Blog
 <!--START_SECTION:feed-->
-* [Say hello to Hyas 👋](https:&#x2F;&#x2F;gethyas.com&#x2F;blog&#x2F;say-hello-to-hyas&#x2F;)
+* [Hyas 2.0](&#x2F;blog&#x2F;hyas-2&#x2F;)
 <!--END_SECTION:feed-->
