@@ -103,5 +103,6 @@ Hyas comes with [commands](https://gethyas.com/docs/prologue/commands/) for comm
 
 ## Blog
 <!--START_SECTION:feed-->
+* [Images 3.1](https:&#x2F;&#x2F;gethyas.com&#x2F;blog&#x2F;images-3-1&#x2F;)
 * [Hyas 2.0](https:&#x2F;&#x2F;gethyas.com&#x2F;blog&#x2F;hyas-2&#x2F;)
 <!--END_SECTION:feed-->
