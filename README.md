@@ -103,9 +103,9 @@ Hyas comes with [commands](https://gethyas.com/docs/prologue/commands/) for comm
 
 ## Blog
 <!--START_SECTION:feed-->
+* [Thulite CLI 2.0](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;thulite-cli-2-0&#x2F;)
+* [Thulite 2026](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;thulite-2026&#x2F;)
 * [Hyas is now Thulite](https:&#x2F;&#x2F;thulite.io&#x2F;hyas-is-now-thulite&#x2F;)
 * [Hyas 2.4](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;hyas-2-4&#x2F;)
 * [SEO 2.2](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;seo-2-2&#x2F;)
-* [Images 3.1](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;images-3-1&#x2F;)
-* [Hyas 2.0](https:&#x2F;&#x2F;thulite.io&#x2F;blog&#x2F;hyas-2&#x2F;)
 <!--END_SECTION:feed-->
